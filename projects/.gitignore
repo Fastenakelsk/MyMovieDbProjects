@@ -1,0 +1,8 @@
+.DS_Store
+.idea/*
+MyMovieDb/MyMovieDbBackend/.idea/*
+MyMovieDb/MyMovieDbBackend/src/main/resources/application.properties
+MyMovieDb/MyMovieDbBackend/target/*
+
+\MyMovieDb\MyMovieDbBackend\src\main\resources\application.properties
+MyMovieDb\MyMovieDbBackend\src\main\resources\application.properties
